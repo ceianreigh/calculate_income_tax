@@ -4,6 +4,7 @@
 # pseudocode
 
 # get the taxable income from the user
+taxable_income = int(input("Enter your income: "))
 
 # calculate the tax based on the taxable income
 # if the taxable income is less than 10000
