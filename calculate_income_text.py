@@ -19,3 +19,7 @@ else:
     tax = 10000 * 0 + 10000 * 0.1 + (taxable_income - 20000) * 0.2
 
 # print the tax
+print(
+    "Your tax is: ",
+    tax,
+)
